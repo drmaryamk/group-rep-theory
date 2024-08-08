@@ -1,1 +1,1 @@
-# group-rep-theory
+# Group Rep Theory
